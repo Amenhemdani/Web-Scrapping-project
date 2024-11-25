@@ -17,6 +17,6 @@ Before running the scraper, ensure you have the following installed:
 
 Python 3.8+
 ## Required Python libraries:
-## selenium
-## csv
-## json
+#### selenium
+#### csv
+#### json
